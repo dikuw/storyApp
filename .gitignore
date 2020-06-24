@@ -2,5 +2,6 @@ source.txt
 config.env
 node_modules/
 *.log
+*.env
 haters/
 

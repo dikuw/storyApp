@@ -1,6 +1,5 @@
 source.txt
-.gitignore
-config/config.env
+config.env
 node_modules/
 *.log
 haters/
